@@ -1,2 +1,2 @@
 # newfolder
-nursery shopingapp
+nursery shoppingapp
